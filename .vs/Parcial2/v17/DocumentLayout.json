@@ -6,7 +6,10 @@
       "AbsoluteMoniker": "D:0:0:{B192F2C7-8F90-4DA5-B3ED-525208E5590E}|Parcial2\\Parcial2.csproj|c:\\users\\user\\documents\\github\\parcial2-des4\\parcial2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B192F2C7-8F90-4DA5-B3ED-525208E5590E}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
     },
     {
       "AbsoluteMoniker": "D:0:0:{B192F2C7-8F90-4DA5-B3ED-525208E5590E}|Parcial2\\Parcial2.csproj|c:\\users\\user\\documents\\github\\parcial2-des4\\parcial2\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,6 +18,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{B192F2C7-8F90-4DA5-B3ED-525208E5590E}|Parcial2\\Parcial2.csproj|c:\\users\\user\\documents\\github\\parcial2-des4\\parcial2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B192F2C7-8F90-4DA5-B3ED-525208E5590E}|Parcial2\\Parcial2.csproj|solutionrelative:parcial2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     }
   ],
@@ -26,11 +32,14 @@
         {
           "DockedWidth": 200,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
           "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
 =======
+=======
+>>>>>>> Stashed changes
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -61,6 +70,9 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
@@ -70,7 +82,11 @@
               "RelativeToolTip": "Parcial2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "WhenOpened": "2025-11-20T19:55:40.086Z",
+=======
+              "WhenOpened": "2025-11-20T19:49:55.871Z",
+>>>>>>> Stashed changes
 =======
               "WhenOpened": "2025-11-20T19:49:55.871Z",
 >>>>>>> Stashed changes
